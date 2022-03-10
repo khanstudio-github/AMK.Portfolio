@@ -1,2 +1,2 @@
 # AMK.Portfolio
-Source code for www.abdulmoizkhan.com Portfolio website. 
+Source code for www.abdulmoizkhan.com portfolio website. 
